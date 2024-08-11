@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chukkukaapii
 - 👀 I’m interested in IoT, AI and ML!
-- 🌱 I’m currently learning keras, PyTorch and fastai
+- 🌱 I’m currently learning RAG!
 - 📫 How to reach me : chukkukaapii@gmail.com
 - ✨Pronouns: she/her
 - carpe diem? i'd love to but i have anxiety
